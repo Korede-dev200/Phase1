@@ -1,0 +1,8 @@
+name,grade_level,subject,score,passed
+Ama,10,Math,78.0,True
+Ama,10,Science,85.0,True
+Ben,11,Math,92.0,True
+Chidi,10,Math,70.0,True
+Chidi,10,Science,65.0,False
+Dara,11,Science,88.0,True
+Eze,10,,,
